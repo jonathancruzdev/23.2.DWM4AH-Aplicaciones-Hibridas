@@ -1,4 +1,6 @@
 # Clase 01 - NodeJS
 
-> node -- version
-> node app
+```
+node --version
+node app
+```
